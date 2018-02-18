@@ -17,7 +17,9 @@
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/02/18/first-post/</guid>
-      <description>My first post via blogdown!</description>
+      <description>My first post via blogdown!
+Yay!
+</description>
     </item>
     
     <item>
@@ -26,7 +28,8 @@
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description>My name is Umair Durrani and I have over 5 years of experience in traffic data analysis and driver behavior. I use tools such as PTV VISSIM, R, RStudio, Python and Excel for analysis and reporting the insights gained about road transportation.
+My passion is to effectively use data to improve safety and traffic flow on transportation systems. For this purpose, I don&amp;rsquo;t merely rely on black box tools to predict traffic flow but also try to disseminate the knowledge from data to understand the underlying causes e.</description>
     </item>
     
   </channel>
