@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Umair Durrani</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Umair Durrani</description>
+    <title>Car Following on Umair Durrani</title>
+    <link>/tags/car-following/</link>
+    <description>Recent content in Car Following on Umair Durrani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/car-following/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>First Post</title>
-      <link>/2018/02/18/first-post/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/02/18/first-post/</guid>
-      <description>My first post via blogdown!
-Yay!
-</description>
-    </item>
     
     <item>
       <title>Slides from graduate seminar on Driving Control Strategies in Car-following</title>
