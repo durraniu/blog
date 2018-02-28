@@ -6,10 +6,19 @@
     <description>Recent content on Umair Durrani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Search Everything in Windows</title>
+      <link>/2018/02/27/search-everything-in-windows/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/27/search-everything-in-windows/</guid>
+      <description>I just watched a YouTube video by Hadley Wickham (author of several R packages) who talked about project workflow. He told about using a search and launch application called alfred. Since alfred is only available on Mac, I searched alternatives for Windows. The one I liked among many is Everything. It makes Windows search so fast. Following is a little demonstration by someone on YouTube.</description>
+    </item>
     
     <item>
       <title>First Post</title>

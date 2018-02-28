@@ -1,0 +1,12 @@
+---
+title: Search Everything in Windows
+author: Umair Durrani
+date: '2018-02-27'
+slug: search-everything-in-windows
+categories: []
+tags: []
+---
+
+I just watched a [YouTube video](https://youtu.be/boKFxBniUH0) by Hadley Wickham (author of several R packages) who talked about project workflow. He told about using a search and launch application called alfred. Since alfred is only available on Mac, I searched alternatives for Windows. The one I liked among many is [Everything](http://www.voidtools.com/). It makes Windows search so fast. Following is a little demonstration by someone on YouTube.  
+
+[](https://www.youtube.com/watch?v=T3ztC7sEn30)
