@@ -1,0 +1,15 @@
+---
+title: Adding equation number as caption in MS Word
+author: Umair Durrani
+date: '2018-03-03'
+slug: adding-equation-number-as-caption-in-ms-word
+categories: []
+tags: []
+---
+
+Microsoft Word is perhaps the most used word processing software by academics. Students and professors use it to write papers, reports and dissertations. However, there are certain essential features still missing in Word. One of them is inserting equation numbers as captions, so that they could be referred in the text using the cross-reference tool.   
+
+I found this [answer](https://superuser.com/questions/594559/how-do-you-easily-add-equation-numbers-to-microsoft-word-2010-equations) online that is really, really good to handle this problem. I followed the steps and easily got the equation numbers as captions. Following video shows my steps: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZzOfejihGT4?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
