@@ -7,7 +7,7 @@ categories: []
 tags: []
 bibliography: C:\\Users\\Saba Ikhlaq\\Documents\\blog\\bibl.bib
 output: 
-  html_document: 
+  blogdown::html_page: 
     theme: united
     toc: true
     toc_float: true
