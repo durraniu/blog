@@ -6,10 +6,25 @@
     <description>Recent content on Umair Durrani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Review on Perceptual Thresholds</title>
+      <link>/2018/08/03/review-on-perceptual-thresholds/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/08/03/review-on-perceptual-thresholds/</guid>
+      <description>Study 1Weber ratio for visual discrimination of velocityCitation: (Brown 1960)
+General:What is Weber’s Law?The ratio of the increment threshold to the background intensity is a constant (???).
+\[ {\Delta}I/I = K \]
+where,
+\[ {\Delta}I \] = the incremental threshold for dtecting a difference
+\[ I \] = background intensity
+Video introduction to Weber’s Law:Paper’s content:For discrimination of velocity: A weber ratio (difference threshold in angular velocity divided by angular velocity) of 0.</description>
+    </item>
     
     <item>
       <title>Adding equation number as caption in MS Word</title>
