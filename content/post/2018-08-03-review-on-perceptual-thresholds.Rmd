@@ -9,19 +9,17 @@ bibliography: C:\\Users\\Saba Ikhlaq\\Documents\\blog\\bibl.bib
 output: 
   html_document: 
     theme: united
+    toc: true
+    toc_float: true
 ---
 
-#  {.tabset}
+# Study 1
 
-## Study 1
+## Weber ratio for visual discrimination of velocity  
 
-### Weber ratio for visual discrimination of velocity  
+* Citation: [@Brown1960]  
 
-Citation: [@Brown1960]  
-
-#### General:     
-
-* What is Weber's Law?        
+### What is Weber's Law?        
 
 The ratio of the increment threshold to the background intensity is a constant [@weberlaw].   
 
@@ -32,12 +30,12 @@ where,
 $$ {\Delta}I $$   = the incremental threshold for dtecting a difference   
 $$ I  $$   = background intensity   
 
-* Video introduction to Weber's Law: 
+### Video introduction to Weber's Law: 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O_nY1TM2RZM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>   
 
-#### Paper's content:     
+### Paper's contents  
 
 * **For discrimination of velocity:** A weber ratio (difference threshold in angular velocity divided by angular velocity) of 0.1 was estimated  
 * The differential threshold increases in direct proportion to the angular speed of the stimulus   
@@ -51,12 +49,12 @@ $$ I  $$   = background intensity
 
 
 
-## Study 2
+# Study 2
 
 
-## Study 3   
+# Study 3   
 
-## References      
+# References      
 
 
 
